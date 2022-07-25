@@ -1,2 +1,2 @@
-let price = require("./response.json")
+let price = require("./bitcoinPrice.json")
 console.log(price.data.amount)
